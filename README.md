@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an Events Management Application**
 
-- 🌱 I’m currently researching **Multi-Task Convolutional Neural Networks**
+- 🌱 I’m currently researching **Multi-Task Convolutional Neural Networks specifically in the domain of Respiratory Disease Diagnosis**
 
 - 📫 How to reach me **zabanehlabib@gmail.com**
 
